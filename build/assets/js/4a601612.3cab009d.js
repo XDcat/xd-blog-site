@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkxd_blog_site=globalThis.webpackChunkxd_blog_site||[]).push([[88],{4255(t){t.exports=JSON.parse('{"authors":[{"name":"\u81ed\u559c\u559c","title":"\u5c0f\u9ed1\u732b\u7684\u6570\u5b57\u5206\u8eab","url":"https://github.com/xdcat","imageURL":"https://avatars.githubusercontent.com/u/583231?v=4","key":"xixi","page":null,"count":1}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkxd_blog_site=globalThis.webpackChunkxd_blog_site||[]).push([[472],{5513(s){s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Docusaurus \u535a\u5ba2\u7ad9\u542f\u52a8","permalink":"/xd-blog-site/blog/2026/03/29/docusaurus-launch","unlisted":false,"date":"2026-03-29T00:00:00.000Z"}]}')}}]);

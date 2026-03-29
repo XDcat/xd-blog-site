@@ -1,0 +1,56 @@
+{
+  "id": "tutorial-basics/create-a-document",
+  "title": "Harness 设计思路",
+  "description": "长任务开发为什么要用 harness，如何让 AI 持续规划、执行和验证。",
+  "source": "@site/docs/tutorial-basics/create-a-document.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-document",
+  "permalink": "/xd-blog-site/docs/tutorial-basics/create-a-document",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xdcat/xd-blog-site/tree/main/docs/tutorial-basics/create-a-document.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "AI",
+      "permalink": "/xd-blog-site/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "harness",
+      "permalink": "/xd-blog-site/docs/tags/harness"
+    },
+    {
+      "inline": true,
+      "label": "long-running",
+      "permalink": "/xd-blog-site/docs/tags/long-running"
+    },
+    {
+      "inline": true,
+      "label": "agents",
+      "permalink": "/xd-blog-site/docs/tags/agents"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Harness 设计思路",
+    "description": "长任务开发为什么要用 harness，如何让 AI 持续规划、执行和验证。",
+    "tags": [
+      "AI",
+      "harness",
+      "long-running",
+      "agents"
+    ],
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "首页",
+    "permalink": "/xd-blog-site/docs/"
+  },
+  "next": {
+    "title": "从怀疑到接纳：AI 使用之旅",
+    "permalink": "/xd-blog-site/docs/tutorial-basics/create-a-blog-post"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "intro",
+  "title": "首页",
+  "description": "这是一个基于 Docusaurus 的个人博客 + 文档站。",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/xd-blog-site/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xdcat/xd-blog-site/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "首页",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Harness 设计思路",
+    "permalink": "/xd-blog-site/docs/tutorial-basics/create-a-document"
+  }
+}

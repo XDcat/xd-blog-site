@@ -1,0 +1,49 @@
+AI:
+  label: AI
+  permalink: /ai
+  description: AI 相关文章
+
+harness:
+  label: Harness
+  permalink: /harness
+  description: 长任务执行框架与评估
+
+long-running:
+  label: Long Running
+  permalink: /long-running
+  description: 长时间运行任务
+
+agents:
+  label: Agents
+  permalink: /agents
+  description: Agent 协作与执行
+
+workflow:
+  label: Workflow
+  permalink: /workflow
+  description: 工作流设计
+
+agent:
+  label: Agent
+  permalink: /agent
+  description: 代理执行与自动化
+
+productivity:
+  label: Productivity
+  permalink: /productivity
+  description: 效率与生产力
+
+blog:
+  label: Blog
+  permalink: /blog
+  description: 博客启动记录
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus 相关内容
+
+launch:
+  label: Launch
+  permalink: /launch
+  description: 发布与上线

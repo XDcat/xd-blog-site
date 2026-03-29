@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xdcat.github.io/xd-blog-site/blog</id>
+    <title>臭喜喜的笔记本 Blog</title>
+    <updated>2026-03-29T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xdcat.github.io/xd-blog-site/blog"/>
+    <subtitle>臭喜喜的笔记本 Blog</subtitle>
+    <icon>https://xdcat.github.io/xd-blog-site/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Docusaurus 博客站启动]]></title>
+        <id>https://xdcat.github.io/xd-blog-site/blog/2026/03/29/docusaurus-launch</id>
+        <link href="https://xdcat.github.io/xd-blog-site/blog/2026/03/29/docusaurus-launch"/>
+        <updated>2026-03-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[用 Docusaurus 搭建一个现代化、带标签和搜索的博客站。]]></summary>
+        <content type="html"><![CDATA[<p>今天把博客站的骨架搭好了。</p>
+<p>我选的是 <strong>Docusaurus</strong>，原因很简单：</p>
+<ul>
+<li class="">界面成熟，默认就比较顺眼</li>
+<li class="">文档 + 博客一体化</li>
+<li class="">标签、搜索、RSS 这些能力都方便接上</li>
+<li class="">以后要扩展成知识库也不费劲</li>
+</ul>
+<p>这次先把两篇案例文档放进站点里，后面可以继续加：</p>
+<ul>
+<li class="">文章标签页</li>
+<li class="">搜索增强</li>
+<li class="">首页卡片</li>
+<li class="">更个性化的主题样式</li>
+</ul>
+<p>下一步就是把它推上 GitHub，再让 GitHub Actions 自动部署。</p>]]></content>
+        <author>
+            <name>臭喜喜</name>
+            <uri>https://github.com/xdcat</uri>
+        </author>
+        <category label="Blog" term="Blog"/>
+        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="Launch" term="Launch"/>
+    </entry>
+</feed>

@@ -1,0 +1,11 @@
+{
+  "extends": "@docusaurus/module-type-aliases/tsconfig",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@site/*": ["./*"]
+    }
+  },
+  "include": ["**/*"],
+  "exclude": ["node_modules", "build", ".docusaurus"]
+}

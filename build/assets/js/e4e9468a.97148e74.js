@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkxd_blog_site=globalThis.webpackChunkxd_blog_site||[]).push([[89],{4682(e){e.exports=JSON.parse('{"metadata":{"permalink":"/xd-blog-site/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

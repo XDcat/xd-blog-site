@@ -1,0 +1,52 @@
+{
+  "id": "tutorial-basics/create-a-blog-post",
+  "title": "从怀疑到接纳：AI 使用之旅",
+  "description": "记录如何从不买账到把 AI 纳入日常工作流。",
+  "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-blog-post",
+  "permalink": "/xd-blog-site/docs/tutorial-basics/create-a-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xdcat/xd-blog-site/tree/main/docs/tutorial-basics/create-a-blog-post.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "AI",
+      "permalink": "/xd-blog-site/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "workflow",
+      "permalink": "/xd-blog-site/docs/tags/workflow"
+    },
+    {
+      "inline": true,
+      "label": "agent",
+      "permalink": "/xd-blog-site/docs/tags/agent"
+    },
+    {
+      "inline": true,
+      "label": "productivity",
+      "permalink": "/xd-blog-site/docs/tags/productivity"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "从怀疑到接纳：AI 使用之旅",
+    "description": "记录如何从不买账到把 AI 纳入日常工作流。",
+    "tags": [
+      "AI",
+      "workflow",
+      "agent",
+      "productivity"
+    ],
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Harness 设计思路",
+    "permalink": "/xd-blog-site/docs/tutorial-basics/create-a-document"
+  }
+}
