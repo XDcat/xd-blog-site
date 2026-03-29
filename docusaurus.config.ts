@@ -7,7 +7,7 @@ const config: Config = {
   tagline: '现代、清爽、带标签和搜索的个人博客',
   favicon: 'img/favicon.ico',
   url: "https://xdcat.github.io",
-  baseUrl: '/xd-blog-site/',
+  baseUrl: '/',
   organizationName: 'xdcat',
   projectName: 'xd-blog-site',
   deploymentBranch: 'gh-pages',
