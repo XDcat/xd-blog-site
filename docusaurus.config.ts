@@ -6,7 +6,7 @@ const config: Config = {
   title: '臭喜喜的笔记本',
   tagline: '现代、清爽、带标签和搜索的个人博客',
   favicon: 'img/favicon.ico',
-  url: 'https://xdcat.github.io',
+  url: "https://xdcat.github.io",
   baseUrl: '/xd-blog-site/',
   organizationName: 'xdcat',
   projectName: 'xd-blog-site',
