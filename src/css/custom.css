@@ -8,8 +8,31 @@
   --ifm-color-primary-lightest: #c4b5fd;
 }
 
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #0f172a;
+  color: #e5e7eb;
+}
+
 .navbar {
   backdrop-filter: blur(12px);
+}
+
+.navbar,
+.footer,
+.main-wrapper,
+.main,
+.theme-doc-markdown,
+.theme-doc-toc-desktop,
+.menu,
+.menu__list,
+.docSidebarContainer,
+.theme-blog,
+.blog-list-page,
+.blog-post-page {
+  background: transparent;
 }
 
 .hero--primary {
@@ -18,4 +41,17 @@
 
 .menu__link--active:not(.menu__link--sublist) {
   font-weight: 700;
+}
+
+[data-theme='dark'] {
+  --ifm-background-color: #0f172a;
+  --ifm-background-surface-color: #111827;
+  --ifm-font-color-base: #e5e7eb;
+  --ifm-navbar-background-color: rgba(15, 23, 42, 0.85);
+  --ifm-footer-background-color: #0b1220;
+}
+
+[data-theme='light'] {
+  --ifm-background-color: #ffffff;
+  --ifm-background-surface-color: #ffffff;
 }
